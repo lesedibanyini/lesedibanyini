@@ -14,6 +14,6 @@ I work at the intersection of **business, systems, and data**, turning complex r
 Machine Learning · Predictive Analytics · Systems Design · Research  
 
 📫 **Let’s connect:**  
-[LinkedIn](#) • [Email](#)
+[LinkedIn](https://www.linkedin.com/in/rivoningo-banyini-2a0734262/) • [Email](mailto:rivoningo693@gmail.com)
 
 > _“Designing systems. Powering decisions. Driving impact.”_
